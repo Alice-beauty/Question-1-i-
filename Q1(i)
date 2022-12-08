@@ -1,0 +1,6 @@
+START
+PRINT "enter temperaure F"
+input F
+C=5/9*(F-32)
+PRINT "Your conerverted temperature in degrees celcius is:",C
+STOP
